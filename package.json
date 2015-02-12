@@ -1,0 +1,8 @@
+{
+  "name": "koa-ractive",
+  "version": "1.0.0",
+  "dependencies": {
+    "ractive": "^0.6.1",
+    "rcu": "^0.3.0"
+  }
+}
