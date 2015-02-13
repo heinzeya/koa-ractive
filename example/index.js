@@ -7,7 +7,9 @@ app.use(views(path.join(__dirname, './templates')))
 app.use(router(app))
 
 app.get('/', function*(){
-	this.render('home')
+	this.render('home',{
+		name : "David"
+	})
 })
 
 app.listen(4000)

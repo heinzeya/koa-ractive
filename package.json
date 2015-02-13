@@ -1,6 +1,10 @@
 {
   "name": "koa-ractive",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heinzeya/koa-ractive.git"
+  },
   "dependencies": {
     "ractive": "^0.6.1",
     "rcu": "^0.3.0"
